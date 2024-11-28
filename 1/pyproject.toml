@@ -8,7 +8,7 @@ authors = ["exercise"]
 python = "^3.10"
 psycopg2-binary = "^2.9.9"
 
-[tool.poetry.group.dev.dependencies]
+[tool.poetry.dev-dependencies]
 pytest = "^8.3.2"
 
 [build-system]
